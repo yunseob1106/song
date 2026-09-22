@@ -1,0 +1,6 @@
+{
+  "name": "감사 자료 한눈에 보기",
+  "description": "국정감사 및 행정감사의 진행 상황, 팀 관련 항목, 제출 기한 D-Day 및 관련 서식을 한눈에 파악하고 관리하는 감사 업무 지원 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
